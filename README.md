@@ -1,2 +1,2 @@
 # GIFtastic-Py
-## A cute and fun GIF
+## A cute and fun GIF🐈
